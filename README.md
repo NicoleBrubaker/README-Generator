@@ -1,9 +1,9 @@
-# asdf
+# README Generator
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-asdf
+An easy to use README Generator that asks various questions a user may want to display on their project repo README. This is a command line tool built using node.js.
 
 ## Table of Contents
 
@@ -17,27 +17,29 @@ asdf
 
 5. [License](#license)
 
-6. [Questions](#Questions)
+6. [Questions](#questions)
 
 ## Installation
 
-asdf
+npm install
 
 ## Usage
 
-adsf
+
 
 ## Contributing
 
-asdf
+Feel free to contribute, please reach out with any questions.
 
 ## Tests
 
-asdf
+N/A
 
 ## License
   This project is licensed under the MIT License.
 
 ## Questions
 
+If you have any questions, please reach out at nschumacher196@gmail.com.
 
+View my GitHub profile: [My Profile](https://github.com/NicoleBrubaker)

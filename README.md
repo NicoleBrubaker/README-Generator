@@ -25,7 +25,7 @@ npm install
 
 ## Usage
 
-
+N/A
 
 ## Contributing
 
